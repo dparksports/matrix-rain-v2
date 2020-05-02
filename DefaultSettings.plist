@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>neo.png</key>
+	<integer>1</integer>
+	<key>morpheus.png</key>
+	<integer>1</integer>
+	<key>trinity.png</key>
+	<integer>1</integer>
+	<key>treo.png</key>
+	<integer>1</integer>
+	<key>persephone.png</key>
+	<integer>1</integer>
+	<key>bulletTime.png</key>
+	<integer>1</integer>
+	<key>sample1.png</key>
+	<real>0.7619050000000001</real>
+	<key>sample2.png</key>
+	<real>1.071429</real>
+	<key>sample3.png</key>
+	<real>2.119048</real>
+	<key>sample4.png</key>
+	<real>0.952381</real>
+	<key>sample5.png</key>
+	<real>0.928571</real>
+</dict>
+</plist>
